@@ -1,0 +1,12 @@
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\bin\Debug\net6.0\Services.Core.deps.json
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\bin\Debug\net6.0\Services.Core.dll
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\bin\Debug\net6.0\Services.Core.pdb
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\Services.Core.csproj.AssemblyReference.cache
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\Services.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\Services.Core.AssemblyInfoInputs.cache
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\Services.Core.AssemblyInfo.cs
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\Services.Core.dll
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\refint\Services.Core.dll
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\Services.Core.pdb
+C:\Users\Stevens\source\repos\Prueba_Stevens_Core_Angular\Services.Core\obj\Debug\net6.0\ref\Services.Core.dll
